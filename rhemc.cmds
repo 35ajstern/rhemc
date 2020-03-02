@@ -1,0 +1,5 @@
+rm -rf /global/scratch/ajstern/rhemc/negSel.S_1.h2_5e-1/; python multivariate_trait_simulations.py 1 0.5 10000 100000 --tau 0.5 /global/scratch/ajstern/rhemc/negSel.S_1.h2_5e-1/
+rm -rf /global/scratch/ajstern/rhemc/negSel.S_3.h2_5e-1/; python multivariate_trait_simulations.py 3 0.5 10000 100000 --tau 0.5 /global/scratch/ajstern/rhemc/negSel.S_3.h2_5e-1/
+rm -rf /global/scratch/ajstern/rhemc/negSel.S_10.h2_5e-1/; python multivariate_trait_simulations.py 10 0.5 10000 100000 --tau 0.5 /global/scratch/ajstern/rhemc/negSel.S_10.h2_5e-1/
+rm -rf /global/scratch/ajstern/rhemc/negSel.S_30.h2_5e-1/; python multivariate_trait_simulations.py 30 0.5 10000 100000 --tau 0.5 /global/scratch/ajstern/rhemc/negSel.S_30.h2_5e-1/
+rm -rf /global/scratch/ajstern/rhemc/negSel.S_100.h2_5e-1/; python multivariate_trait_simulations.py 100 0.5 10000 100000 --tau 0.5 /global/scratch/ajstern/rhemc/negSel.S_100.h2_5e-1/
